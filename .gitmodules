@@ -1,0 +1,6 @@
+[submodule ".icons/AtomOneDarkIcons"]
+	path = .icons/AtomOneDarkIcons
+	url = git@github.com:UnnatShaneshwar/AtomOneDarkIcons.git
+[submodule ".themes/AtomOneDarkTheme"]
+	path = .themes/AtomOneDarkTheme
+	url = git@github.com:UnnatShaneshwar/AtomOneDarkTheme.git
